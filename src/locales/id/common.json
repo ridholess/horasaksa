@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "Beranda",
+    "history": "Sejarah",
+    "about": "Tentang",
+    "tryOn": "Coba Aksara",
+    "language": "Bahasa"
+  },
+  "hero": {
+    "indicator": "Jelajahi Aksara Batak",
+    "title": {
+      "main": "Aksara Batak itu",
+      "highlight": "Keren!"
+    },
+    "subtitle": "Temukan keindahan dan makna mendalam dari sistem tulisan tradisional Batak melalui pengalaman interaktif yang menarik.",
+    "startLearning": "Mulai Belajar",
+    "tryNow": "Coba Sekarang",
+    "aksaraInfo": {
+      "type": "Tipe",
+      "consonantBase": "Konsonan Dasar",
+      "vowelBase": "Vokal Dasar"
+    }
+  },
+  "history": {
+    "indicator": "Sejarah Aksara",
+    "title": {
+      "main": "Aksara Batak",
+      "highlight": "Punya Cerita!"
+    },
+    "subtitle": "Telusuri perjalanan panjang aksara batak, sebuah warisan tulisan kuno yang hidup hingga kini.",
+    "timeline": {
+      "ancient": {
+        "title": "Era Kuno",
+        "period": "Abad ke-13",
+        "description": "Aksara Batak diyakini merupakan turunan dari aksara Brahmi yang berkembang di India kuno. Jalur penyebarannya ke Nusantara diperkirakan melalui aksara Pallawa dan aksara Kawi (Jawa Kuno). Para ahli bahasa dan filologi menyimpulkan bahwa aksara Batak memiliki kekerabatan terdekat dengan aksara-aksara kuno lain di Sumatra."
+      },
+      "colonial": {
+        "title": "Era Kolonial",
+        "period": "Abad ke-15",
+        "description": "Aksara ini terutama dikuasai oleh para datu (pemimpin spiritual dan dukun). Mereka menggunakan Surat Batak untuk menulis pustaha laklak, yaitu kitab-kitab dari kulit kayu yang berisi pengetahuan magis, ramalan, pengobatan tradisional, dan catatan silsilah."
+      },
+      "modern": {
+        "title": "Era Modern",
+        "period": "Abad ke-20",
+        "description": "Meskipun penggunaannya dalam kehidupan sehari-hari telah sangat berkurang, kesadaran untuk melestarikan aksara Batak sebagai warisan budaya yang tak ternilai mulai tumbuh di era modern. Melalui upaya-upaya ini, diharapkan aksara Batak tidak hanya menjadi catatan sejarah, tetapi dapat terus hidup dan menjadi bagian dari identitas budaya Batak di masa depan."
+      }
+    },
+    "artifacts": {
+      "stone": "Prasasti Batu",
+      "painting": "Lukisan Tradisional",
+      "manuscript": "Naskah Kuno",
+      "lake": "Danau Toba"
+    }
+  },
+  "handsOn": {
+    "indicator": "Praktik Langsung",
+    "title": "Tulis Namamu dalam Aksara Batak!",
+    "subtitle": "Penasaran namamu terlihat dalam aksara batak? Coba langsung pada panel samping",
+    "tryAR": "Coba AR",
+    "features": {
+      "realtime": "Real-time",
+      "interactive": "Interaktif",
+      "authentic": "Autentik"
+    }
+  },
+  "cta": {
+    "title": {
+      "main": "Belajar Aksara Batak memang",
+      "highlight": "SESERU ITUUUUU!"
+    },
+    "subtitle": "Yuk kita eksplor lebih dalam tentang aksara batak, dari sejarahnya hingga cara menulisnya. Ayo mulai perjalananmu sekarang!",
+    "startNow": "Mulai Sekarang",
+    "learnMore": "Pelajari Lebih Lanjut"
+  },
+  "footer": {
+    "description": "Platform pembelajaran aksara Batak yang interaktif dan menyenangkan untuk melestarikan warisan budaya Indonesia.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "followUs": "Ikuti Kami",
+    "copyright": "© 2025 Learn Aksara Batak. Semua hak dilindungi."
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "tryAgain": "Coba Lagi",
+    "close": "Tutup",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya",
+    "continue": "Lanjutkan",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "share": "Bagikan",
+    "aiPowered": "Fitur ini menggunakan AI",
+    "enterYourName": "Siapa nama panggilanmu?",
+    "namePlaceholder": "Masukkan nama panggilan",
+    "validation": {
+      "lettersOnly": "Hanya huruf",
+      "noSpaces": "Tidak ada spasi",
+      "noSpecialChars": "Tidak ada karakter khusus"
+    }
+  },
+  "meta": {
+    "title": "Learn Aksara Batak",
+    "description": "Belajar aksara Batak dengan mudah dan menyenangkan",
+    "keywords": "Aksara Batak, Batak script, budaya Indonesia, tulisan tradisional, pembelajaran bahasa"
+  }
+}

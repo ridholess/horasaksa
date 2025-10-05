@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "Home",
+    "history": "History", 
+    "about": "About",
+    "tryOn": "Try Aksara",
+    "language": "Language"
+  },
+  "hero": {
+    "indicator": "Explore Batak Script",
+    "title": {
+      "main": "Batak Script is",
+      "highlight": "Amazing!"
+    },
+    "subtitle": "Discover the beauty and deep meaning of traditional Batak writing system through engaging interactive experiences.",
+    "startLearning": "Start Learning",
+    "tryNow": "Try Now",
+    "aksaraInfo": {
+      "type": "Type",
+      "consonantBase": "Base Consonant",
+      "vowelBase": "Base Vowel"
+    }
+  },
+  "history": {
+    "indicator": "Script History",
+    "title": {
+      "main": "Batak Script",
+      "highlight": "Has Stories!"
+    },
+    "subtitle": "Explore the long journey of Batak script, an ancient writing heritage that lives on today.",
+    "timeline": {
+      "ancient": {
+        "title": "Ancient Era",
+        "period": "13th Century",
+        "description": "Batak script is believed to be derived from the Brahmi script that developed in ancient India. Its spread to the archipelago is thought to have been through the Pallawa script and Kawi script (Ancient Javanese). Language and philology experts conclude that Batak script has the closest kinship with other ancient scripts in Sumatra."
+      },
+      "colonial": {
+        "title": "Colonial Era", 
+        "period": "15th Century",
+        "description": "This script was mainly mastered by the datu (spiritual leaders and shamans). They used Batak Script to write pustaha laklak, which are books made from tree bark containing magical knowledge, predictions, traditional medicine, and genealogical records."
+      },
+      "modern": {
+        "title": "Modern Era",
+        "period": "20th Century",
+        "description": "Although its use in daily life has greatly diminished, awareness to preserve Batak script as an invaluable cultural heritage began to grow in the modern era. Through these efforts, it is hoped that Batak script will not only become a historical record, but can continue to live and be part of Batak cultural identity in the future."
+      }
+    },
+    "artifacts": {
+      "stone": "Stone Inscription",
+      "painting": "Traditional Painting",
+      "manuscript": "Ancient Manuscript",
+      "lake": "Lake Toba"
+    }
+  },
+  "handsOn": {
+    "indicator": "Hands-On Practice",
+    "title": "Write Your Name in Batak Script!",
+    "subtitle": "Curious how your name looks in Batak script? Try it directly on the side panel",
+    "tryAR": "Try AR",
+    "features": {
+      "realtime": "Real-time",
+      "interactive": "Interactive", 
+      "authentic": "Authentic"
+    }
+  },
+  "cta": {
+    "title": {
+      "main": "Learning Batak Script is indeed",
+      "highlight": "SO MUCH FUN!"
+    },
+    "subtitle": "Let's explore deeper about Batak script, from its history to how to write it. Come start your journey now!",
+    "startNow": "Start Now",
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "description": "An interactive and fun Batak script learning platform to preserve Indonesian cultural heritage.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 Learn Aksara Batak. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "tryAgain": "Try Again",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous", 
+    "continue": "Continue",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "share": "Share",
+    "aiPowered": "This feature uses AI",
+    "enterYourName": "What's your nickname?",
+    "namePlaceholder": "Enter your nickname",
+    "validation": {
+      "lettersOnly": "Letters only",
+      "noSpaces": "No spaces",
+      "noSpecialChars": "No special characters"
+    }
+  },
+  "meta": {
+    "title": "Learn Aksara Batak",
+    "description": "Learn Batak script easily and enjoyably",
+    "keywords": "Aksara Batak, Batak script, Indonesian culture, traditional writing, language learning"
+  }
+}
